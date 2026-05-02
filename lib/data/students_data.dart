@@ -60,4 +60,14 @@ final List<Student> sampleStudents = [
 
   // ── STUDENT CONTRIBUTIONS BELOW THIS LINE ──────────────────────────────────
   // TODO: Add your own Student entry here (see format above)
+const Student(
+  id: '2102060053',
+  studentNumber: '2102060053',
+  name: 'Mehdy Fleifel',
+  department: 'Management Information Systems',
+  level: '400',
+  gpa: 3.5 , 
+  email: 'mehdy.fleifel@final.edu.tr',
+  contributedBy: '2102060053 — Mehdy Fleifel',
+),
 ];
